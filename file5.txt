@@ -1,2 +1,3 @@
 Addning this file from GitHub UI.. to perform git pull and git fetch 
 Editing this file to perform a git fetch then merge in my local
+Editing this file again to perform the stash operation in my local and apply after pulling it from remote
