@@ -1,2 +1,1 @@
-editing existing file
-some chagnes in feature1
+updated file2.txt
